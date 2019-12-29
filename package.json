@@ -1,6 +1,6 @@
 {
   "name": "gnome-build-progress-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Show build progress in Gnome taskbar via BuildProgress plugin",
   "main": "index.js",
   "author": "Ivanq",
